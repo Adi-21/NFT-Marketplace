@@ -21,7 +21,7 @@ You can get the mentioned `ID` and `SECRET` from their website after creating an
 Clone the project
 
 ```bash
-  git clone
+  git clone https://github.com/Adi-21/NFT-Marketplace.git
 ```
 
 Go to the project directory
